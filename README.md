@@ -6,6 +6,7 @@
 
 #### 😊 About me:
 
+- 👩💻 I am a systems engineer with experience as an analyst in the management of IT projects.
 - 🔬👩🏽‍💻 Passionate about technology and exploring new knowledge in the world of data.
 - 📊📉 Recently specialized in Data Science with advanced skills in data analysis, machine learning, and data visualization.
 - 📈🔝 Enthusiastic about applying technical expertise in Python for problem-solving and data-driven decision-making.
@@ -22,6 +23,8 @@
 ![numpy](https://img.shields.io/badge/numpy-BEBDB8?style=for-the-badge&logo=numpy&logoColor=%23013243)
 ![scipy](https://img.shields.io/badge/scipy-BEBDB8?style=for-the-badge&logo=scipy&logoColor=%238CAAE6)
 ![scikitlearn](https://img.shields.io/badge/SKlearn-BEBDB8?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E)
+![matplotlib](https://img.shields.io/badge/Matplotlib-BEBDB8?style=for-the-badge&logoColor=%23F7931E)
+![seaborn](https://img.shields.io/badge/seaborn-BEBDB8?style=for-the-badge&logoColor=%23F7931E)
 
 
 
