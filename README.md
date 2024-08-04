@@ -1,5 +1,5 @@
 
-![Captura de pantalla 2023-12-26 223728](https://github.com/RitshuCrispin/RitshuCrispin/assets/130596539/04d9535d-c8c9-4b08-9e74-2edfa427dc29)
+![PORTADA](https://github.com/user-attachments/assets/7ec4dd8e-0b5a-4da2-85da-c5cff1a0c39f)
 
 ### Hi there, my name is Ritshu Crispin 👋
 
