@@ -30,7 +30,7 @@
 #### Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritshucrispin/)
 <a href="https://www.kaggle.com/ritshucrispin"><img src="https://img.shields.io/badge/KAGGLE-%230A66C2.svg?style=flat&logo=KAGGLE&logoColor=white" alt="KAGGLE"/></a>
-<a href="mailto:ritshu7@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ritshucrispin@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 <!--
